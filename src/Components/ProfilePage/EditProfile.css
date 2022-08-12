@@ -1,0 +1,44 @@
+.EditProfile-container {
+    padding: 20px 10px;
+    width: 70%;
+}
+.profile_pic_container{
+    height: 400px;
+}
+.img-responsive {
+    border-radius: 0 !important;
+    margin-top: 0px;
+}
+
+form {
+    width: 60%;
+}
+.upload_pic{
+    margin-top: 20px;
+    
+}
+.pic_upload{
+    border: white;
+    border-radius: 5px;
+    background-color: lightskyblue;
+    color: white;
+}
+.pic_n{
+    margin-top: 100px;
+}
+
+.bio_in{
+    height: 2cm;
+    width: 15cm;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid #dbdbdb;
+}
+.submit_Post{
+    width: 5cm;
+    height: 1cm;
+    background-color: lightskyblue;
+    border: white;
+    border-radius: 5px;
+    color: white;
+}

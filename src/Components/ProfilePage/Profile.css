@@ -1,0 +1,43 @@
+
+
+.profile_pic_container{
+    height: 400px;
+}
+.img-responsive {
+    border-radius: 0 !important;
+    margin-top: 0px;
+}
+.profile_img{
+    margin-top: -100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 3px solid white;
+    object-fit: cover;
+}
+
+h5 {
+    text-align: left;
+}
+.table {
+    margin: auto;
+    width: 60%;
+}
+.bio_in{
+    height: 2cm;
+    width: 10cm;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid #dbdbdb;
+}
+.submit_Post{
+    width: 3cm;
+    height: 1cm;
+    background-color: lightskyblue;
+    border: white;
+    border-radius: 5px;
+    color: white;
+}
+.Pic_A{
+    margin-top: 100px;
+}

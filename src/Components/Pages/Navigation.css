@@ -1,0 +1,84 @@
+
+.Nav-container {
+    padding: 30px 5px;
+    margin: 40px 0px 20px 0px;
+    background-color: white !important;
+    width: 100% !important;
+}
+
+.colum_nav {
+    background-color: white!important;
+    padding: 10px 5px;
+}
+.out{
+    bottom: 10px;
+    border-bottom: 10px;
+    background-color: white;
+    border: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.del_logo {
+    width: 91px;
+    height: 48px;
+    background-color: white;
+}
+.search {
+   margin-right: -20px;
+   z-index: 5; 
+   /* background-color: white; */
+   
+}
+.bi-search {
+    background: white
+
+}
+::placeholder {
+    /* color: #b9b3b3; */
+}
+
+.icon_thumbnail {
+    width: 30px;
+    height: 30px;
+    margin: 5px 10px;
+    background-color: white;
+
+}
+div > a {
+    background-color: white;
+}
+
+.Profile_thumbnail {
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 5px 10px;
+    object-fit: cover;
+  }
+  input::placeholder {
+      padding-left: 20px;
+  }
+
+  
+input{
+    text-indent: 0px;
+  }
+  .icon{
+      margin-top: 1px;
+  }
+ /* .rounded{
+    background: rgba(196, 196, 196, 0.2);
+  }  */
+  /* span{
+    background: rgba(196, 196, 196, 0.2);
+  } */
+
+  .glass{
+    width: 30px;
+    height: 30px;
+    margin: 5px 10px;
+    background-color: white;
+  }
